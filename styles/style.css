@@ -1,0 +1,204 @@
+body{
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    color: #132743;
+}
+#bir{
+    position: absolute;
+    height: 6rem;
+    width: 6rem;
+    top: 39rem;
+    left: 14rem;
+}
+#birds1{
+    position: absolute;
+    height: 10rem;
+    width: 10rem;
+    top: 6.5rem;
+    left: 25rem;
+}
+#birds2{
+    position: absolute;
+    height: 10rem;
+    width: 10rem;
+    top: 12rem;
+    right: 25rem;
+}
+.cloud{
+    position: absolute;
+    right: 18.75rem;
+    top: 6.25rem;
+}
+.cloud2{
+    position: absolute;
+    left: 18.75rem;
+    top: 15.625rem;
+}  
+.bird{
+    position: absolute;
+    width: 8rem;
+    height: 6rem;
+    right: 10rem;
+    top: 30rem;
+
+}  
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 6rem;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 25px;
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 0%;
+}
+h3{
+    margin: 0 auto 0 auto;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#toph2{
+    margin-top: 0%;
+    padding-top: 25px;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.top{
+    background-image: linear-gradient(to top,#a6f6f1,#00b7c2);
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+    font-family: 'Rye', cursive;
+    line-height: 1.2;
+    color: #213e3b;
+}
+#profile{
+    text-align: center;
+    background-color:#a6f6f1;
+}
+#myimg{
+    padding: 15px;
+    position: relative;
+}
+
+.skills{
+    background-color: #19d3da;
+    line-height: 2;
+    position: relative;
+}
+.skill-row1{
+    margin: 50px auto 0px auto;
+    text-align: left;
+    width: 65%;
+}
+.skill-row2{
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 65%;
+}
+.img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me{
+    position: relative;
+    background-color: #a5ecd7;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+#contact{
+    margin: 0 auto 0 auto;
+    width: 60%;
+}
+#copyright{
+    text-align: center;
+    font-weight: lighter;
+}
+#p{
+    margin-bottom: 0%;
+}
+.button {
+    text-decoration: none;
+    margin: 0 auto 0 auto;
+    position: relative;
+    display: block;
+    width: 200px;
+    height: 25px;
+    border-radius: 18px;
+    background-color:#2eb872;
+    border: solid 1px transparent;
+    padding: 1rem 1.5rem;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+    align-self: center;
+  }
+  .button:hover {
+    background-color:#07689f;
+    color: seashell;
+    box-shadow: 5px 20px 85px 5px rgba(0, 0, 0, 0.2), 0px 10px 20px 0 rgba(0, 0, 0, 0.19);   
+  }
+  #copyright{
+      text-align: center;
+      font-weight: lighter;
+      background-color: #2b2e4a;
+      margin: 0 auto 0 auto;
+      color: lavenderblush;
+      padding: 1rem;
+  }
+#visit{
+    padding-top: 0;
+    padding-bottom: 0%;
+    font-weight: normal;
+    font-size: 2rem;
+}
+.icons{
+    max-height: 2.5rem;
+    margin: 1rem;
+    padding: 1vw;
+    position: relative;
+}
+
+#facebook:hover{
+    color:rgba(33,33,33,1);
+	box-shadow:0 5px 8px rgba(0,0,0,0.25);
+    background:#3949AB;
+	background:linear-gradient(to right,#3949AB 0%,#2196F3 100%);
+}
+#twitter:hover{
+    color:rgba(33,33,33,1);
+	box-shadow:0 5px 8px rgba(0,0,0,0.25);
+	background:#00BCD4;
+	background:linear-gradient(to right,#00BCD4 0%,#2196F3 100%);
+}
+#insta:hover{
+     color:rgba(33,33,33,1);
+	box-shadow:0 5px 8px rgba(0,0,0,0.25);
+	background:#FFC107;
+	background:linear-gradient(to bottom left,#FFC107 0%,#f50056 50%,#3F51B5 100%);
+}
+#linkedin:hover{
+    box-shadow:0 5px 8px rgba(3,169,244,0.25); color:rgba(33,33,33,1);
+	box-shadow:0 5px 8px rgba(0,0,0,0.25);
+	background:#0288D1;
+	background:linear-gradient(to right,#0288D1 0%,#2196F3 100%);
+}
+#github:hover{
+    color:rgba(33,33,33,1);
+	box-shadow:0 5px 8px rgba(0,0,0,0.25);
+	background:#ECEFF1;
+	background:linear-gradient(to right,#ECEFF1 0%,#B0BEC5 100%);
+}
+ 
