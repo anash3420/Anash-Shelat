@@ -3,6 +3,9 @@ body{
     font-family: 'Merriweather', serif;
     color: #132743;
 }
+html::-webkit-scrollbar{
+    display: none;
+}
 #bir{
     position: absolute;
     height: 6rem;
